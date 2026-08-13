@@ -1,0 +1,46 @@
+<!-- Contact Details Card Update -->
+<div class="bg-slate-900 text-white p-8 rounded-3xl shadow-xl flex flex-col justify-between">
+    <div>
+        <h3 class="text-2xl font-bold mb-6">Contact & Location</h3>
+        <p class="text-slate-400 text-sm mb-8">Visit our office or reach out to our team 24/7.</p>
+        
+        <ul class="space-y-6 text-sm">
+            <li class="flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-emerald-600/20 text-emerald-400 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-location-dot"></i>
+                </div>
+                <div>
+                    <span class="block text-slate-400 text-xs uppercase font-bold tracking-wider">Office Address</span>
+                    <span class="font-medium text-slate-200">56 Parklands Main Road, Parklands, Cape Town</span>
+                </div>
+            </li>
+            <li class="flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-emerald-600/20 text-emerald-400 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-clock"></i>
+                </div>
+                <div>
+                    <span class="block text-slate-400 text-xs uppercase font-bold tracking-wider">Working Hours</span>
+                    <span class="font-medium text-slate-200">Open 24/7 (Mon – Sat)<br>Closed on Sundays</span>
+                </div>
+            </li>
+            <li class="flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-emerald-600/20 text-emerald-400 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-phone"></i>
+                </div>
+                <div>
+                    <span class="block text-slate-400 text-xs uppercase font-bold tracking-wider">Phone & WhatsApp</span>
+                    <a href="tel:+27837327440" class="font-medium text-slate-200 hover:text-emerald-400 transition-colors">+27 83 732 7440</a>
+                </div>
+            </li>
+            <li class="flex items-start gap-4">
+                <div class="w-10 h-10 rounded-xl bg-emerald-600/20 text-emerald-400 flex items-center justify-center shrink-0">
+                    <i class="fa-solid fa-envelope"></i>
+                </div>
+                <div>
+                    <span class="block text-slate-400 text-xs uppercase font-bold tracking-wider">Email Address</span>
+                    <a href="mailto:mugdavi@gmail.com" class="font-medium text-slate-200 hover:text-emerald-400 transition-colors">mugdavi@gmail.com</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
